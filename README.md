@@ -1,3 +1,7 @@
+# Elasticsearch commands and queries
+
+- Run docker container:
+
 ```
 docker-compose up -d
 ```
